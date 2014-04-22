@@ -1,9 +1,13 @@
-#include <iostream>
-
 #ifndef READFILE_H
 #define	READFILE_H
-using namespace std;
 
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <string>
+
+using namespace std;
+/*----------------------------------------------------------------------------*/
 class ReadFile {
 public:
     
@@ -15,6 +19,6 @@ public:
 private:
 
 };
-
+/*----------------------------------------------------------------------------*/
 #endif	/* READFILE_H */
 
