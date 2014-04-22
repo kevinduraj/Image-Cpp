@@ -1,3 +1,2 @@
-Image Processing Implementation in C++
-======================================
-
+Image Implementation in C++
+===========================
